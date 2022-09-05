@@ -1,1 +1,1 @@
-Npm package for manulif test
+Npm package for manulife test
